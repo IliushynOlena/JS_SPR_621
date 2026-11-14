@@ -87,8 +87,12 @@ function divide(a,b){
     return a+b;
 }
 
+
+
 let numA = +prompt("Enter number A :")
 let numB = +prompt("Enter number B :")
 
 console.log("Result : "+ divide(numA,numB))
 //alert("Result : "+ divide(45,5))
+
+
